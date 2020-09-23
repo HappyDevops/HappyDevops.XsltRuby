@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital"
+                         xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd"
+                         Version="1.1" UUID="AAA1D0D4-209E-430A-ABE2-5106C57xxx"
+                         FechaTimbrado="2099-01-22T09:04:27" RfcProvCertif="SAT970701NN3"
+                         SelloCFD="IK3B8k4TDKs294ksf1eOGX1E3TaUP0KWT7gN0Ppqc3yeERo475EAJR+O4v"
+                         NoCertificadoSAT="00001000000403258748"
+                         SelloSAT="CK/RE4wzlchmTJ0EqEMQJgzS7Xxxg2/FeeL9PlKBMib5gvDcwVyoVCmv04ei0uI4UeGDxDrkZHA==" />
